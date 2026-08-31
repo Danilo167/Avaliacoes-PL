@@ -1,2 +1,2 @@
-# Avalia-es-PL
-Avaliações - Paradigmas de Linguagens (PL)
+# Avaliações-PL
+## Avaliações - Paradigmas de Linguagens (PL)
